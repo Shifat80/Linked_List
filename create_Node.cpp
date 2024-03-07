@@ -15,6 +15,8 @@ class Node{
 int main(){
     Node *Head=NULL;//Head is a pointer
     //Head=NULL;
+    //Insert at begining 
+    
     int arr[]={2,4,6,8,10};
     for(int i=0;i<5;i++){
         if(Head==NULL){
